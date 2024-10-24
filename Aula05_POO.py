@@ -2,7 +2,7 @@
 #  Exercício 1: Faça um programa que leia dados do usuário (nome, sobrenome, idade)
 #  Adcione em uma lista seus elementos na tela.
 
-exercicio = int(input('Digite o exercío que você quer executar 1 ou 2: '))
+exercicio = int(input('Digite o exercío que você quer executar 1 ou 2: ')) # Referente a questão Extra++: (Faça um menu onde o usuário consiga selecionar qual questão quer executar). 
 
 if exercicio == 1:
     

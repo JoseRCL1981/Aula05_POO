@@ -19,7 +19,7 @@ else:
 # Exercício 2: Faça um programa onde o usuário informe um número de 1 a 12 em seguida imprima qual o mês que se refere.
 
     numeros = int(input('Digite um número de 1 ao 12 referente ao mês: '))
-    lista_mes = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Nutubro','Novembro','Dezembro']
+    lista_mes = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro','Novembro','Dezembro']
     numeros = numeros - 1
     print(lista_mes[numeros])
 
